@@ -1,0 +1,16 @@
+# 📝 Mini Quiz (উত্তর না দেখে দাও)
+---
+- ১. Compiler-এর Input কী?
+- Awnser : কম্পাইলার ইনপুট হচ্ছে সোর্স কোড ।
+---
+- ২. Compiler-এর Output কী?
+- Awnser : কম্পাইলার আউটপুট হচ্ছে Assembly code.
+---
+- ৩. Compiler কি Text Replace করে?
+- Awnser : নাহ কম্পাইলার text রিপ্লেস করে না । এইটা সোর্স কোড থেকে `Assambly Code` তৈরি করে । 
+---
+- ৪. Compiler কি #include Process করে?
+- Awnser : নাহ কম্পাইলার `#include` প্রসেস করে না কারণ এইটার কাজ হচ্ছে প্রি-প্রসেসর এর । 
+---
+- ৫. Compiler কি Binary তৈরি করে?
+- Awnser : নাহ কম্পাইলার শুধু সোর্স কোড থেকে `Assambly Code` রূপান্তর করে ।
